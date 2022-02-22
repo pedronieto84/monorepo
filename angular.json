@@ -6,6 +6,7 @@
     "client2": "apps/client2",
     "client2-e2e": "apps/client2-e2e",
     "client3": "apps/client3",
-    "client3-e2e": "apps/client3-e2e"
+    "client3-e2e": "apps/client3-e2e",
+    "login": "libs/login"
   }
 }
