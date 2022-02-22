@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { User } from 'interfaces/interfaces';
 
 @Component({
   selector: 'pedro-root',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = 'client1';
+  title: User = { email: 'adf', password: 'adfasdf' };
 }
