@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@pedro/api": ["libs/api/src/index.ts"],
       "@pedro/login": ["libs/login/src/index.ts"]
     }
   },

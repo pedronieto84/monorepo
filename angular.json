@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "api": "libs/api",
     "client1": "apps/client1",
     "client1-e2e": "apps/client1-e2e",
     "client2": "apps/client2",
